@@ -1,0 +1,68 @@
+{
+  "id": 2,
+  "name": "RideHub - Driver",
+  "slug": "ridehub-driver",
+  "type": "driver",
+  "developer": "RideHub Tech Solutions",
+  "icon": "👨‍💼",
+  "rating": 4.6,
+  "ratingCount": 1856,
+  "downloads": "8K+",
+  "contentRating": "Everyone",
+  "size": "38 MB",
+  "version": "2.0.5",
+  "releaseDate": "2024-06-10",
+  "category": "Transportation",
+  "playStoreLink": "https://play.google.com/store/apps/details?id=com.azhai.partner",
+  "description": "Earn money by driving with RideHub. Join thousands of drivers earning daily.",
+  "fullDescription": "Welcome to RideHub Driver - Your Path to Financial Independence\n\nRideHub Driver is a powerful platform that empowers drivers to earn money on their own schedule. Be your own boss and drive when you want.\n\n💰 EARNING OPPORTUNITIES:\n\n💵 Competitive Rates\nEarn more per ride with our transparent commission structure. Detailed breakdown of your earnings.\n\n🎯 Smart Matching\nOur algorithm matches you with nearby ride requests for maximum efficiency.\n\n📊 Daily Analytics\nTrack your earnings in real-time. Detailed reports of your daily, weekly, and monthly income.\n\n⏰ Flexible Schedule\nWork on your own schedule. No fixed working hours. Go online and offline whenever you want.\n\n🚗 Vehicle Support\nWork with your own vehicle. We support all vehicle types.\n\n🛡️ Driver Protection\nComprehensive insurance coverage. 24/7 support for any issues.\n\n⭐ Rating System\nBuild your reputation. High-rated drivers get priority ride requests.\n\n🎁 Incentives & Bonuses\nEarn bonuses for completing ride milestones. Referral program with generous commissions.\n\n📱 Easy Management\nSimple dashboard to manage documents, payments, and ratings.\n\n24/7 Customer Support\nDedicated driver support team to help with any issues.",
+  "screenshotUrls": [
+    "https://via.placeholder.com/540x720?text=Driver+Home",
+    "https://via.placeholder.com/540x720?text=Go+Online",
+    "https://via.placeholder.com/540x720?text=Ride+Request",
+    "https://via.placeholder.com/540x720?text=Earnings",
+    "https://via.placeholder.com/540x720?text=Navigation",
+    "https://via.placeholder.com/540x720?text=Documents"
+  ],
+  "versions": [
+    {
+      "version": "2.0.5",
+      "releaseDate": "2024-06-10",
+      "releaseNotes": "• Enhanced navigation with live traffic\n• Improved earnings dashboard\n• New document verification system\n• Better SOS emergency features\n• Battery optimization for longer shifts",
+      "apkUrl": "https://api.example.com/downloads/ridehub-driver-2.0.5.apk"
+    },
+    {
+      "version": "2.0.0",
+      "releaseDate": "2024-05-01",
+      "releaseNotes": "• Complete redesign of driver interface\n• New incentive system\n• Improved document management",
+      "apkUrl": "https://api.example.com/downloads/ridehub-driver-2.0.0.apk"
+    },
+    {
+      "version": "1.9.8",
+      "releaseDate": "2024-03-15",
+      "releaseNotes": "• Performance improvements\n• Bug fixes",
+      "apkUrl": "https://api.example.com/downloads/ridehub-driver-1.9.8.apk"
+    }
+  ],
+  "ratingBreakdown": {
+    "5": 65,
+    "4": 22,
+    "3": 8,
+    "2": 3,
+    "1": 2
+  },
+  "permissions": [
+    "Location Access (continuous)",
+    "Camera (for document verification)",
+    "Microphone (for calls)",
+    "Phone (for calls)",
+    "Contacts (for emergency)",
+    "Storage (for documents)"
+  ],
+  "links": {
+    "privacyPolicy": "https://example.com/privacy",
+    "termsOfService": "https://example.com/terms",
+    "contactEmail": "driver-support@ridehub.com",
+    "website": "https://ridehub.com/driver"
+  }
+}

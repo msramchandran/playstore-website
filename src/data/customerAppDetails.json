@@ -1,0 +1,67 @@
+{
+  "id": 1,
+  "name": "RideHub - Customer",
+  "slug": "ridehub-customer",
+  "type": "customer",
+  "developer": "RideHub Tech Solutions",
+  "icon": "🚗",
+  "rating": 4.5,
+  "ratingCount": 2534,
+  "downloads": "10K+",
+  "contentRating": "Everyone",
+  "size": "42 MB",
+  "version": "2.1.0",
+  "releaseDate": "2024-06-15",
+  "category": "Transportation",
+  "playStoreLink": "https://play.google.com/store/apps/details?id=com.azhai.auto",
+  "description": "Book rides instantly with RideHub. The fastest and most reliable ride-hailing app for your daily commute.",
+  "fullDescription": "Welcome to RideHub - The Future of Urban Mobility\n\nRideHub is a cutting-edge ride-hailing application designed to provide you with safe, reliable, and affordable transportation at your fingertips.\n\n✨ KEY FEATURES:\n\n🚗 Quick Booking\nBook a ride in just 3 taps. Choose from multiple vehicle options - Economy, Premium, and XL.\n\n💰 Transparent Pricing\nSee exact fares before booking. No hidden charges. Multiple payment options including cash, cards, and digital wallets.\n\n🛡️ Safety First\nAll drivers are verified and background-checked. Share your trip details with friends and family. Emergency button for quick assistance.\n\n⭐ Quality Drivers\nRate your driver and help us maintain the highest standards. Professional and courteous drivers.\n\n📍 Real-time Tracking\nTrack your ride in real-time. Know exactly when your driver arrives.\n\n🎁 Rewards Program\nEarn points on every ride. Redeem points for free rides and exclusive offers.\n\n24/7 Customer Support\nOur dedicated support team is available round the clock to assist you.\n\n🌍 Available Nationwide\nBook rides across multiple cities with one account.",
+  "screenshotUrls": [
+    "https://via.placeholder.com/540x720?text=Home+Screen",
+    "https://via.placeholder.com/540x720?text=Book+a+Ride",
+    "https://via.placeholder.com/540x720?text=Trip+Details",
+    "https://via.placeholder.com/540x720?text=Payment+Options",
+    "https://via.placeholder.com/540x720?text=Trip+History",
+    "https://via.placeholder.com/540x720?text=Profile"
+  ],
+  "versions": [
+    {
+      "version": "2.1.0",
+      "releaseDate": "2024-06-15",
+      "releaseNotes": "• Fixed crash on Android 14\n• Improved map performance\n• Added dark mode support\n• Enhanced search algorithm for faster driver matching\n• Better offline mode handling",
+      "apkUrl": "https://api.example.com/downloads/ridehub-customer-2.1.0.apk"
+    },
+    {
+      "version": "2.0.5",
+      "releaseDate": "2024-05-28",
+      "releaseNotes": "• Added scheduled rides feature\n• Improved notification system\n• Bug fixes and performance improvements",
+      "apkUrl": "https://api.example.com/downloads/ridehub-customer-2.0.5.apk"
+    },
+    {
+      "version": "2.0.0",
+      "releaseDate": "2024-04-10",
+      "releaseNotes": "• Major UI overhaul\n• New rewards system\n• Added emergency features",
+      "apkUrl": "https://api.example.com/downloads/ridehub-customer-2.0.0.apk"
+    }
+  ],
+  "ratingBreakdown": {
+    "5": 60,
+    "4": 25,
+    "3": 10,
+    "2": 3,
+    "1": 2
+  },
+  "permissions": [
+    "Location Access",
+    "Camera (for profile photo)",
+    "Contacts (for emergency contacts)",
+    "Phone (for caller ID)",
+    "Storage (for offline maps)"
+  ],
+  "links": {
+    "privacyPolicy": "https://example.com/privacy",
+    "termsOfService": "https://example.com/terms",
+    "contactEmail": "support@ridehub.com",
+    "website": "https://ridehub.com"
+  }
+}

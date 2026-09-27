@@ -1,0 +1,96 @@
+{
+  "customerReviews": [
+    {
+      "id": 1,
+      "author": "Priya Sharma",
+      "rating": 5,
+      "date": "2024-06-14",
+      "title": "Best ride app I've used!",
+      "content": "RideHub is amazing! The drivers are professional, the prices are fair, and the app is super smooth. I use it daily and never had any issues.",
+      "helpful": 324
+    },
+    {
+      "id": 2,
+      "author": "Arjun Patel",
+      "rating": 4,
+      "date": "2024-06-12",
+      "title": "Great experience overall",
+      "content": "Really good app with a great interface. Only minor issue is that sometimes it takes a bit long to find drivers during peak hours.",
+      "helpful": 156
+    },
+    {
+      "id": 3,
+      "author": "Neha Gupta",
+      "rating": 5,
+      "date": "2024-06-10",
+      "title": "Safe and reliable",
+      "content": "I feel very safe using RideHub. The emergency features and driver ratings give me peace of mind. Highly recommended for women travelers!",
+      "helpful": 512
+    },
+    {
+      "id": 4,
+      "author": "Rahul Kumar",
+      "rating": 3,
+      "date": "2024-06-08",
+      "title": "Good but needs improvement",
+      "content": "App works fine but the surge pricing during peak hours is quite high. Would be perfect if there was a loyalty program.",
+      "helpful": 89
+    },
+    {
+      "id": 5,
+      "author": "Anjali Singh",
+      "rating": 5,
+      "date": "2024-06-05",
+      "title": "Customer service is excellent",
+      "content": "Had an issue once and the support team resolved it within minutes. Very impressed with their responsiveness.",
+      "helpful": 267
+    }
+  ],
+  "driverReviews": [
+    {
+      "id": 1,
+      "author": "Vikas Reddy",
+      "rating": 5,
+      "date": "2024-06-13",
+      "title": "Great earning potential!",
+      "content": "Been driving for 3 months and earning consistently. The app is easy to use and payments are always on time.",
+      "helpful": 421
+    },
+    {
+      "id": 2,
+      "author": "Suresh Menon",
+      "rating": 4,
+      "date": "2024-06-11",
+      "title": "Good platform with room to grow",
+      "content": "The app is reliable and the earnings are decent. Customer support is helpful. Just wish there were more ride requests in my area.",
+      "helpful": 198
+    },
+    {
+      "id": 3,
+      "author": "Ramesh Kumar",
+      "rating": 5,
+      "date": "2024-06-09",
+      "title": "Best driving app out there",
+      "content": "This is the best platform to earn. The incentive system is fair and transparent. I earn at least 2000-3000 per day.",
+      "helpful": 667
+    },
+    {
+      "id": 4,
+      "author": "Amit Verma",
+      "rating": 3,
+      "date": "2024-06-07",
+      "title": "Decent app but navigation could be better",
+      "content": "The app is good for earning but the navigation feature sometimes gives confusing routes. Otherwise solid platform.",
+      "helpful": 145
+    },
+    {
+      "id": 5,
+      "author": "Mohan Singh",
+      "rating": 5,
+      "date": "2024-06-03",
+      "title": "Reliable and trustworthy",
+      "content": "Working with RideHub for 6 months. Never had issues with payments or documentation. Very professional company.",
+      "helpful": 389
+    }
+  ]
+}
