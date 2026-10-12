@@ -15,9 +15,10 @@ export default function Header() {
       <div className="max-w-7xl mx-auto">
         {/* Mobile Header */}
         <div className="md:hidden flex items-center justify-between px-4 py-3">
-          <button onClick={() => navigate('/')} className="font-bold text-xl text-primary-600">
-            ▶ MS Ramachandran App Store
-          </button>
+          <div className="flex flex-col cursor-pointer" onClick={() => navigate('/')}>
+            <span className="font-bold text-xl text-primary-600">▶ MS Ramachandran App Store</span>
+            <span className="text-xs text-play-gray-500 italic mt-0.5">ஆட்டோ ஓட்டுநரால் உருவாக்கப்பட்ட ஆப்</span>
+          </div>
           <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
             className="p-2 hover:bg-play-gray-100 rounded-lg"
@@ -28,9 +29,12 @@ export default function Header() {
 
         {/* Desktop Header */}
         <div className="hidden md:flex items-center justify-between px-6 py-4">
-          <button onClick={() => navigate('/')} className="font-bold text-2xl text-primary-600">
-            ▶ MS Ramachandran App Store
-          </button>
+          <div className="flex flex-col cursor-pointer" onClick={() => navigate('/')}>
+            <span className="font-bold text-2xl text-primary-600">▶ MS Ramachandran App Store</span>
+            <span className="text-xs text-play-gray-500 italic mt-0.5">ஆட்டோ ஓட்டுநரால் உருவாக்கப்பட்ட ஆப்</span>
+            <span className="text-xs text-primary-700 font-medium mt-0.5">உங்களுடைய டேட்டாவுக்கு நான் முழுவதும் கேரண்டி.</span>
+            <span className="text-xs text-play-gray-400 italic mt-0.5">— எம். எஸ். ராமச்சந்திரன், உங்களில் ஒரு ஆட்டோ ஓட்டுநர்.</span>
+          </div>
 
           <div className="flex-1 mx-8">
             <div className="relative">
