@@ -65,12 +65,6 @@ export default function Header() {
             </div>
             <nav className="space-y-2">
               <button
-                onClick={() => { handleAppSwitch('customer'); setIsMenuOpen(false); }}
-                className="block w-full text-left px-4 py-2 hover:bg-play-gray-100 rounded-lg font-medium text-play-gray-900"
-              >
-                🚗 Customer App
-              </button>
-              <button
                 onClick={() => { handleAppSwitch('driver'); setIsMenuOpen(false); }}
                 className="block w-full text-left px-4 py-2 hover:bg-play-gray-100 rounded-lg font-medium text-play-gray-900"
               >
@@ -91,12 +85,6 @@ export default function Header() {
               className="py-4 font-medium text-play-gray-900 hover:text-primary-600 border-b-2 border-transparent hover:border-primary-600 transition"
             >
               Home
-            </button>
-            <button
-              onClick={() => handleAppSwitch('customer')}
-              className="py-4 font-medium text-play-gray-700 hover:text-primary-600 border-b-2 border-transparent hover:border-primary-600 transition"
-            >
-              🚗 Customer App
             </button>
             <button
               onClick={() => handleAppSwitch('driver')}
